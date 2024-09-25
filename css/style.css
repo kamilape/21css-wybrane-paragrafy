@@ -1,0 +1,17 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.paragraph4 {
+    background-color: blue;
+}
+.paragraph6 {
+    background-color: blue;
+}
+.paragraph10 {
+    background-color: blue;
+}
+.paragraph {
+        opacity: 0.5;
+}
